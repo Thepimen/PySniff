@@ -4,7 +4,7 @@ import textwrap
 import os
 import sys
 
-# --- DICCIONARIOS DE TRADUCCIÓN (LA "INTELIGENCIA") ---
+# ---- DICCIONARIOS DE TRADUCCIÓN (LA "INTELIGENCIA") ----
 
 # Mapa de Protocolos IP
 PROTO_MAP = {
